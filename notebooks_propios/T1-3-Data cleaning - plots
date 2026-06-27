@@ -1,0 +1,53 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "aa5ff903-e2c0-498e-a2fb-306ce8ef7412",
+   "metadata": {},
+   "source": [
+    "# Plots y visualizacion de los datos"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "f84a55f7-fee6-441c-a8ed-0216a1fdd261",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1d09f13e-5d04-41b8-8b85-eec604676f01",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "data = "
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
